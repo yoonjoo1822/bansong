@@ -1,5 +1,5 @@
 streamlit==1.27.2
 pandas==1.5.3
-numpy==1.24.4     # ✅ distutils 없이도 작동하는 마지막 버전
+numpy==1.24.4
 matplotlib==3.7.1
 scipy==1.10.1
